@@ -38,7 +38,7 @@ Calculator/
 
 ### Calculator Interface
 
-![Calculator](screenshots/calculator.png)
+![Calculator](/Calculator/Screenshot/Calculator.png)
 
 ## How to Run
 
